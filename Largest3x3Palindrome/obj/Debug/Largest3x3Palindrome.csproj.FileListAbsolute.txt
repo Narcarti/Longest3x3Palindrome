@@ -1,0 +1,7 @@
+C:\Users\admin2\source\repos\Largest3x3Palindrome\Largest3x3Palindrome\bin\Debug\Largest3x3Palindrome.exe.config
+C:\Users\admin2\source\repos\Largest3x3Palindrome\Largest3x3Palindrome\bin\Debug\Largest3x3Palindrome.exe
+C:\Users\admin2\source\repos\Largest3x3Palindrome\Largest3x3Palindrome\bin\Debug\Largest3x3Palindrome.pdb
+C:\Users\admin2\source\repos\Largest3x3Palindrome\Largest3x3Palindrome\obj\Debug\Largest3x3Palindrome.csprojAssemblyReference.cache
+C:\Users\admin2\source\repos\Largest3x3Palindrome\Largest3x3Palindrome\obj\Debug\Largest3x3Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\admin2\source\repos\Largest3x3Palindrome\Largest3x3Palindrome\obj\Debug\Largest3x3Palindrome.exe
+C:\Users\admin2\source\repos\Largest3x3Palindrome\Largest3x3Palindrome\obj\Debug\Largest3x3Palindrome.pdb
